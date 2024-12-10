@@ -17,6 +17,8 @@ This repository contains a Streamlit-based **Document Chat Assistant**, enabling
 
 **Language Interface:**  
 The UI and messages are presented in French.
+![Preview App](docs/readme-img.png)
+
 
 ---
 

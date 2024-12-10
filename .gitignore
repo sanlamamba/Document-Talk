@@ -1,0 +1,25 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignore virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+
+# Ignore distribution/build directories
+build/
+dist/
+*.egg-info/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore everything inside the embeddings folder
+embeddings/*
