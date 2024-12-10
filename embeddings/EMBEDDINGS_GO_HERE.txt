@@ -1,0 +1,1 @@
+Once you run the app your embeddings will be loaded and you can start using the app.
