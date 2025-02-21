@@ -54,11 +54,17 @@ pip install -r requirements.txt
 **Required Packages:**
 - `streamlit>=1.14.0`
 - `langchain>=0.0.9`
-- `langchain-community`
-- `langchain-openai`
-- `openai`
-- `pandas`
-- `PyPDF2`
+- `langchain-community==0.3.18`
+- `langchain-openai==0.3.6`
+- `openai==1.63.2`
+- `pandas==2.2.3`
+- `PyPDF2==3.0.1`
+
+### Export your OPEN AI Key in the environment
+Get your OpenAI API Key, You can obtain an openAI key :
+ -> (Open AI Api Keys)[https://platform.openai.com/api-keys]
+
+If you wish to learn more about Open AI API keys you can read more about it here : (Open AI Quickstart)[https://platform.openai.com/docs/quickstart]
 
 Set your OpenAI API key as an environment variable:
 ```bash
